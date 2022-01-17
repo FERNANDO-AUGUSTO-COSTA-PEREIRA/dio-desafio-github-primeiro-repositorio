@@ -1,0 +1,12 @@
+--Primeira Semana de Estudos--
+
+Metodologia Agil Scrum:
+	Produto Owner -> Parte executiva.
+	Scrum Master -> Que ajuda ajud quando necessário.
+	Time Dev -> Quem executa
+	
+	#Lembrete:
+		Time-box = tempo de duração 
+		Sprint = Perído
+		
+	

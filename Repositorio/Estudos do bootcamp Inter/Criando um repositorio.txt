@@ -1,0 +1,18 @@
+#0 - Criar repositório no Github
+#1 - Copiar o endereço 
+#2 - Copiar na pasta que vai ser utilizada
+#3 - Usar
+#4 - git add
+#5 - criar commit
+#6 - enviar com git push
+
+
+-- Comandos -- 
+
+git status -> Ver o status
+
+git add . -> adicionar os arquivos como controle de versão local
+
+git commit -m "comentario" -> Para criar um commit e documentá-lo.
+
+git push origin main -> enviando todos os commit's para o github
